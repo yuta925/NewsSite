@@ -1,4 +1,3 @@
-// src/components/NewsButton.tsx
 import React from 'react';
 import { Article } from '@/pages/types';
 
